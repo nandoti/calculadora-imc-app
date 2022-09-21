@@ -5,9 +5,6 @@
 </h1>
 
 <p align="center">Um aplicativo React Native para calcular o IMC de uma pessoa.</p>
-<p align="center">
-  <img src="https://img.shields.io/github/license/SouzaLuiz/calculator-imc-app?style=flat-square"/>
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29143315/103580539-c28a8280-4eb0-11eb-943e-79abc199a786.png" alt="Interface"/>
