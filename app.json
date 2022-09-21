@@ -1,0 +1,20 @@
+{
+  "name": "calculadoraimc",
+  "displayName": "Calculadora IMC",
+  "expo": {
+    "name": "Calculadora IMC",
+    "slug": "CalculatorImc",
+    "android": {
+      "package": "com.luizhsouza.calculatorimc"
+    },
+    "ios": {
+      "bundleIdentifier": "com.luizhsouza.calculatorimc"
+    },
+    "splash": {
+      "image": "./src/assets/splash/splash-logo.png",
+      "backgroundColor": "#161623",
+      "resizeMode": "contain"
+    },
+    "jsEngine": "hermes"
+  }
+}
