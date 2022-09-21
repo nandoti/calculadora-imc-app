@@ -10,16 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/29143315/103580539-c28a8280-4eb0-11eb-943e-79abc199a786.png" alt="Interface"/>
 </p>
-
-## :rocket: Tecnologias
 
 ```bash
 # Clone o repositório
