@@ -21,19 +21,9 @@
 
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias.
-
-- [React Native](https://reactnative.dev/)
-- [Styled Components](https://styled-components.com/)
-
-## :information_source: Como usar
-
-Para clonar e executar esse aplicativo, você precisará do [Git][git], [Node.js v12][nodejs] ou superior + [Yarn v1.22][yarn] instalado no seu computador.<br>
-No seu terminal:
-
 ```bash
 # Clone o repositório
-➜ git clon
+➜ git clone https://github.com/nandoti/calculadora-imc-app.git
 
 # Entre na pasta criada
 ➜ cd calculator-imc-app
