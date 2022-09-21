@@ -33,26 +33,13 @@ No seu terminal:
 
 ```bash
 # Clone o repositório
-➜ git clone https://github.com/SouzaLuiz/calculator-imc-app.git
+➜ git clon
 
 # Entre na pasta criada
 ➜ cd calculator-imc-app
 
 # Instale as dependências
-➜ yarn install
+➜ npm install
 
 # Execute o aplicativo
-➜ react-native run-android
-```
-
-## :memo: Licença
-Esse projeto está sobre a licença MIT. Veja a [licença](https://github.com/SouzaLuiz/calculator-imc-app/blob/master/LICENSE) para mais detalhes.
-
----
-
-Criado com ♥ por Luiz Souza :wave: [Entre em contato!][linkedin]
-
-[nodejs]: https://nodejs.org/en/
-[git]: https://git-scm.com
-[yarn]: https://yarnpkg.com/
-[linkedin]: https://www.linkedin.com/in/souza-luiz/
+➜ npm start
